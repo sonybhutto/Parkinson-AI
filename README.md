@@ -127,7 +127,6 @@ The project includes an interactive Streamlit application located at:
 
 The application provides a user interface for interacting with the trained Parkinson's disease prediction model.
 
-To run the application locally:
+To run the application locally, use:
 
-```bash
-streamlit run app/streamlit_app.py
+`streamlit run app/streamlit_app.py`
