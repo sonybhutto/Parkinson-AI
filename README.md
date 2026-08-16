@@ -121,6 +121,7 @@ Explainable AI provides additional insight into model behavior and helps reduce 
 
 ## Streamlit Application
 
+🚀 **Live Demo:** [Open Parkinson's AI Web App](https://parkinson-ai-92jynkkiefrqbwcvjcms6o.streamlit.app/)
 The project includes an interactive Streamlit application located at:
 
 `app/streamlit_app.py`
